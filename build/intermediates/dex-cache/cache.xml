@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\exploded-aar\android - AS\android-support-v7-appcompat\unspecified\jars\libs\android-support-v7-appcompat.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c88b0ae4f2a995ed6957a78b5bf132986d4c538">
+        <dex dex="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\android-support-v7-appcompat-9c6f2617f90db934e403e7e28b69308db8a09f84.jar" />
+    </item>
+    <item
+        jar="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\exploded-aar\android - AS\android-support-v7-appcompat\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1bc96c36a9a1b56118153ab0992321ed52c72203">
+        <dex dex="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\classes-0da50ddc7e0d7f61e2021ae2cf371c7b06555d58.jar" />
+    </item>
+    <item
+        jar="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\libs\listviewanimations_lib-manipulation_3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\listviewanimations_lib-manipulation_3.1.0-b2bcbd0c4b7aab93949b73c524ecde0d4e7fa3ad.jar" />
+    </item>
+    <item
+        jar="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-7194aa660735fddb90eadd22b4a1c45021f839f3.jar" />
+    </item>
+    <item
+        jar="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-487f584b318eadcae043390fdafb9d677bd4f210.jar" />
+    </item>
+    <item
+        jar="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\exploded-aar\android - AS\StickyListHeaders\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b637c50f92c768f7a9cf894deec283e9879d959b">
+        <dex dex="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\classes-5b2b29e1dab39c5f693626fda61a411f152d23eb.jar" />
+    </item>
+    <item
+        jar="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\libs\listviewanimations_lib-core_3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\listviewanimations_lib-core_3.1.0-20f8317948158ca5a26126c0653a075aa76ad66b.jar" />
+    </item>
+    <item
+        jar="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\libs\listviewanimations_lib-core-slh_3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
+        <dex dex="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\listviewanimations_lib-core-slh_3.1.0-b6ae91bd5fa13e2a89e70e61c7a6a398d1e45b2c.jar" />
+    </item>
+    <item
+        jar="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\exploded-aar\android - AS\android-support-v7-appcompat\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28">
+        <dex dex="C:\Dev\AndroidWorkspace\UPLOAD\android\android - AS\UIAppTemplate\build\intermediates\pre-dexed\debug\android-support-v4-e8a4edf04fc114139860a8d339cdbdebda4f6a93.jar" />
+    </item>
+
+</items>
